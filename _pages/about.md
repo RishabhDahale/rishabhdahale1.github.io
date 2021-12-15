@@ -20,6 +20,8 @@ My field of interest lies in Stochastic Controls, Reinforcement Learning, Machin
 
 I intend on sharing my projects and, at times, some other interesting research papers and topics I come across through the blog section of this website.
 
+<!-- To know more about me, you can go through my [CV here](/assets/pdf/CV.pdf) -->
+
 <!-- <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/prof_pic2.png" data-zoomable width="250"> -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
