@@ -6,7 +6,7 @@ description: A collection of my projects. Some are not included now as I need to
 nav: true
 ---
 
-<h2> Research Projects </h2>
+<h4> Research Projects </h4>
 
 * <strong>Automatic Music Accompaniment Generation</strong><br>
 This is a part of my Master's thesis in which I aim to develop a computationally creative model for the automatic generating of good quality music conditioned on existing available information. This is not the first work on music generation with machine learning methods, but here I'm focusing on generating accompanying drum beats for any given melody. The pattern and rhythm of drums plays a crutial role in perception of a song. Moreover drums are expected to maintain a tempo and keep the song (band) together by playing fills and improvising in an online fashion with other instruments. Due to such characterstics, generating coherent drum patterns is a difficult task. As work is still in progress, I cannot share the report or code, but if you are interested in knowing the progress you can check the paper accepted to ISMIR LBD 2021.<br>
@@ -24,7 +24,7 @@ This study is an attempt to solve a problem in Automatic Music Transcription (AM
 In this work we develop methods for simultaneous segmentation of common foregound object from multiple (>= 2) images.
 
 
-<h2> Course Projects </h2>
+<h4> Course Projects </h4>
 
 * <strong>Hear me if you can! (Audio Steganography)</strong><br>
 Audio steganography is a technique for concealing the existence of information by embedding it within non-secret audio, called the carrier audio signal. There is a trade-off between the amount of information encoded and the imperceptibility of the change in the encoded audio. In this work, we implement a deep-learning based audio steganography technique. PESQ score is used as the evaluation metric to quantify the amount of degradation. We also study the time required for encoding the text as a function of it’s length, nature and PESQ. Lastly, we study the effect of a Gaussian Noise channel on our encoding technique.
