@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#"></a>Final Year Dual Degree (B.Tech + M.Tech) Student at the Department of Electrical Engineering at IIT Bombay <br> Music Lover | AI/ML Enthusiast
+description: <a href="#"></a>Music Lover | AI/ML Enthusiast
 
 profile:
   align: right
-  image: IMG-20200913-WA0009__02.jpg
+  image: profile_photo_2022.jpg
   address:
 
 news: true  # includes a list of news items
@@ -14,9 +14,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I’m currently pursuing my education at [IIT Bombay](https://www.iitb.ac.in/) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web). I’m in my final year of the Dual Degree course: BTech + MTech in Communication and Signal Processing.
+<!-- IMG-20200913-WA0009__02.jpg -->
+<!-- </a>Engineer at Qualcomm | Completed B.Tech + M.Tech from the Department of Electrical Engineering at IIT Bombay <br> Music Lover | AI/ML Enthusiast -->
 
-My field of interest lies in Stochastic Controls, Reinforcement Learning, Machine Learning, and Signal (especially Music) Processing. I’m working on Automatic Music Generation for my Dual Degree Thesis under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao).
+Hello! I’m currently working at [Qualcomm](https://www.qualcomm.com/home) as a part of Audio Systems team, developing cool new tech for edge devices. I completed my Bachelors and Masters Dual Degree from [IIT Bombay](https://www.iitb.ac.in/) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+
+<!-- I’m in my final year of the Dual Degree course: BTech + MTech in Communication and Signal Processing. -->
+
+My field of interest lies in Stochastic Controls, Reinforcement Learning, Machine Learning, and Signal (especially Music) Processing. As part of my masters thesis, I was working on Automatic Music Generation under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao).
+<!-- I’m working on Automatic Music Generation for my Dual Degree Thesis under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao). -->
 
 I intend on sharing my projects and, at times, some other interesting research papers and topics I come across through the blog section of this website.
 

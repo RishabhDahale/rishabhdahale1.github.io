@@ -8,6 +8,11 @@ nav: true
 ---
 
 <!-- <div class="publications"> -->
+<h2 class='year'>2022</h2>
+<ul>
+  <li><strong>Dahale Rishabh</strong>, Vaibhav Talwadker, Preeti Rao, Prateek Verma, "Generating Coherent Drum Accompaniment With Fills And Improvisations" ISMIR 2022 <br> <a href="https://arxiv.org/abs/2209.00291">Link</a></li>
+</ul>
+
 <h2 class='year'>2021</h2>
 <ul>
   <li><strong>Dahale Rishabh</strong>, Vaibhav Talwadker, Prateek Verma, Preeti Rao, "Neural Drum Accompaniment Generation" ISMIR Late Breaking Demo (2021) <br> <a href="https://archives.ismir.net/ismir2021/latebreaking/000015.pdf">Link</a></li>
