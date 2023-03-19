@@ -17,11 +17,11 @@ social: true  # includes social icons at the bottom of the page
 <!-- IMG-20200913-WA0009__02.jpg -->
 <!-- </a>Engineer at Qualcomm | Completed B.Tech + M.Tech from the Department of Electrical Engineering at IIT Bombay <br> Music Lover | AI/ML Enthusiast -->
 
-Hello! I’m currently working at [Qualcomm](https://www.qualcomm.com/home) as a part of Audio Systems team, developing cool new tech for edge devices. I completed my Bachelors and Masters Dual Degree from [IIT Bombay](https://www.iitb.ac.in/) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+Hello! I’m currently working at [Qualcomm](https://www.qualcomm.com/home) as an Engineer for Audio Systems team, developing cool new tech for edge devices. I completed my Bachelors and Masters Dual Degree from [IIT Bombay](https://www.iitb.ac.in/) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
 
 <!-- I’m in my final year of the Dual Degree course: BTech + MTech in Communication and Signal Processing. -->
 
-My field of interest lies in Stochastic Controls, Reinforcement Learning, Machine Learning, and Signal (especially Music) Processing. As part of my masters thesis, I was working on Automatic Music Generation under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao).
+My field of interest lies in Stochastic Controls, Reinforcement Learning, and Machine Learning. As part of my masters thesis, I was working on Automatic Music Generation under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao).
 <!-- I’m working on Automatic Music Generation for my Dual Degree Thesis under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao). -->
 
 I intend on sharing my projects and, at times, some other interesting research papers and topics I come across through the blog section of this website.
