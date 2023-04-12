@@ -16,5 +16,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'github-pages'
-    
+
 end
