@@ -14,24 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- IMG-20200913-WA0009__02.jpg -->
-<!-- </a>Engineer at Qualcomm | Completed B.Tech + M.Tech from the Department of Electrical Engineering at IIT Bombay <br> Music Lover | AI/ML Enthusiast -->
+Hi everyone, I'm Rishabh Dahale, and I'm passionate about building things from scratch—whether it's personal portfolio trackers, chat platforms, or the exciting new projects I'm currently working on.
 
-Hello! I’m currently working at [Qualcomm](https://www.qualcomm.com/home) as an Engineer for Audio Systems team, developing cool new tech for edge devices. I completed my Bachelors and Masters Dual Degree from [IIT Bombay](https://www.iitb.ac.in/) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web).
+In 2022, I completed both my bachelor's and master's at [IIT Bombay](https://www.iitb.ac.in/), where I had the opportunity to work on some fascinating projects, like music generation and audio steganography. My professional journey includes impactful roles at Qualcomm, where I worked on cutting-edge machine learning projects, as well as various side ventures where I sharpened my full-stack development skills.
 
-<!-- I’m in my final year of the Dual Degree course: BTech + MTech in Communication and Signal Processing. -->
+I'm committed to leveraging technology to create solutions that can impact millions, with a particular focus on deep tech, AI, SaaS, and fintech. With a solid engineering foundation and a knack for turning ideas into scalable businesses, I thrive on exploring new ventures that push the boundaries of innovation.
 
-My field of interest lies in Stochastic Controls, Reinforcement Learning, and Machine Learning. As part of my masters thesis, I was working on Automatic Music Generation under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao).
-<!-- I’m working on Automatic Music Generation for my Dual Degree Thesis under [Prof. Preeti Rao](https://www.ee.iitb.ac.in/web/people/faculty/home/prao). -->
-
-I intend on sharing my projects and, at times, some other interesting research papers and topics I come across through the blog section of this website.
-
-<!-- To know more about me, you can go through my [CV here](/assets/pdf/CV.pdf) -->
-
-<!-- <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/prof_pic2.png" data-zoomable width="250"> -->
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Whether it's building micro SaaS products or designing AI-based tools, my ultimate goal is to create technology that improves people's lives. Check out my projects section to learn more, and feel free to explore my blogs—I'm working on becoming more consistent with them. Let's connect and build the future together!
