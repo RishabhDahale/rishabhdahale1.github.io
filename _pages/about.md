@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#"></a>Music Lover | AI/ML Enthusiast
+description: <a href="#"></a>
 
 profile:
   align: right
@@ -21,4 +21,3 @@ In 2022, I completed both my bachelor's and master's at [IIT Bombay](https://www
 I'm committed to leveraging technology to create solutions that can impact millions, with a particular focus on deep tech, AI, SaaS, and fintech. With a solid engineering foundation and a knack for turning ideas into scalable businesses, I thrive on exploring new ventures that push the boundaries of innovation.
 
 Whether it's building micro SaaS products or designing AI-based tools, my ultimate goal is to create technology that improves people's lives. Check out my projects section to learn more, and feel free to explore my blogs—I'm working on becoming more consistent with them. Let's connect and build the future together!
-
